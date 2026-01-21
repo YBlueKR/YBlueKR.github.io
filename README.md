@@ -79,7 +79,7 @@ Essential utility for gamers! Never miss Terror Zones and Uber Diablo events.
 
 ## 📬 Contact
 * **Email:** ybluekr@gmail.com
-* **GitHub:** [DevLeeKR](https://github.com/YBlueKR)
+* **GitHub:** [YBlueKR](https://github.com/YBlueKR)
 
 ---
 © 2026 YBlue Group. All rights reserved.
